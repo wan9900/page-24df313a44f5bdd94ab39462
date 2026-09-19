@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "f7d2b78a7756c91727fa573b",
+  "owner": "wan9900",
+  "repo": "page-24df313a44f5bdd94ab39462",
+  "title": "忍者云(RenzheCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "24df313a44f5bdd94ab39462",
+      "a": "忍者云(RenzheCloud)",
+      "b": "免费订阅节点",
+      "entity": "忍者云(RenzheCloud)",
+      "brand": "忍者云(RenzheCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f33d415b2639229da0d3a781f5457cb3e7b4d091fec595bb6c596fd34e3cc750",
+      "content": {
+        "primary_entity": "忍者云(RenzheCloud)",
+        "keyword1": "忍者云(RenzheCloud)",
+        "keyword2": "免费订阅节点",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮助快速找到适合自己网络场景的加速方案。基础版适合轻度使用，旗舰版强化流媒体与游戏线路，团队版面向多设备协作，均支持按年付更省费用。",
+          "AI_HERO_SUBTITLE": "忍者云加速器，设备与套餐轻松选",
+          "AI_HERO_INTRO": "忍者云(RenzheCloud)提供多档海外加速套餐，按设备数量、流量与线路优化程度区分。从个人轻量使用到团队多设备协作，可依据自身场景选择基础版、旗舰版或团队版，并按客户端文档完成订阅配置。",
+          "AI_VISUAL_TITLE": "忍者云加速方案",
+          "AI_HIGHLIGHT_1": "基础版月付15元含100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备同时在线",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURES_INTRO": "根据日常流量与在线设备数量挑选套餐，能更好控制成本并满足使用需求。",
+          "AI_FEATURE_TITLE_1": "套餐按量分级",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，按月度流量选档。",
+          "AI_FEATURE_TITLE_2": "设备数量对应",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台同时在线，多设备场景选团队版。",
+          "AI_FEATURE_TITLE_3": "订阅周期可选",
+          "AI_FEATURE_TEXT_3": "三档均支持月付与年付，年付折算更划算，适合长期稳定使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统和终端有对应的客户端，安装后导入订阅即可使用。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年。可按流量、设备数和线路特性匹配。",
+          "AI_GUIDE_TITLE": "三步完成使用准备",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备适配要求，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择合适套餐",
+          "AI_STEP_TEXT_1": "根据月度流量需求与同时在线设备数，在基础版、旗舰版或团队版中选定。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备操作系统与客户端支持情况，确保订阅能在该终端导入使用。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档的指引，完成订阅地址导入与连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选定套餐，顺畅连接",
+          "AI_CLOSING_TEXT": "按自身设备与流量需求挑好套餐，参照客户端文档配置订阅即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "忍者云基础版与旗舰版有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、3台设备在线，适合单人轻度使用；旗舰版每月300GB流量、5台设备在线，并包含IPLC专线游戏加速和优先工单支持。",
+          "AI_FAQ_QUESTION_2": "年付能便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付¥150相当于月付¥12.5，旗舰版年付¥350相当于月付约¥29.2，团队版年付¥850相当于月付约¥70.8，均比按月支付更省。",
+          "AI_FAQ_QUESTION_3": "订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线，订阅导入后按版本上限使用即可。",
+          "AI_FAQ_QUESTION_4": "手机上怎么导入忍者云订阅？",
+          "AI_FAQ_ANSWER_4": "在手机客户端中找到订阅或配置导入选项，粘贴订阅地址后更新节点列表，具体菜单名称以客户端文档说明为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么团队？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、20台设备在线，提供VIP专属高带宽节点和企业定制路由，适合小型工作室或协作小组统一管理订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "be810b112044bda1ae7fb393951bd88b601eebb3880ea0af6d9768a8fff6ec85",
+    "sitemap.xml": "f3f9823dfac43b2e31d78cd150a14dae894d53347132b203bc0f2912a911d8d3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "7b0da4ab2b1188e9f0d15b6b87d0220c913afe098f107b91a463aa672b63755e"
+}
